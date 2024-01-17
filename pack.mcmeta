@@ -1,0 +1,23 @@
+{
+  "pack": {
+    "pack_format": 26,
+    "description": "Enables the 1.21 experiments without the trial chambers"
+  },
+  "features": {
+    "enabled": [
+      "minecraft:update_1_21"
+    ]
+  },
+  "filter": {
+    "block": [
+      {
+        "namespace": "^minecraft$",
+        "path": "^loot_tables/(chests|dispensers|pots|spawners)/trial_chambers"
+      },
+      {
+        "namespace": "^minecraft$",
+        "path": "^worldgen/(structure_set|structure)/trial_chambers$"
+      }
+    ]
+  }
+}
