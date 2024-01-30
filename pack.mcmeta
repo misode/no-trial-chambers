@@ -7,17 +7,5 @@
     "enabled": [
       "minecraft:update_1_21"
     ]
-  },
-  "filter": {
-    "block": [
-      {
-        "namespace": "^minecraft$",
-        "path": "^loot_tables/(chests|dispensers|pots|spawners)/trial_chambers"
-      },
-      {
-        "namespace": "^minecraft$",
-        "path": "^worldgen/(structure_set|structure)/trial_chambers$"
-      }
-    ]
   }
 }
