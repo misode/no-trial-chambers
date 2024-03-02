@@ -1,19 +1,15 @@
 # Update 1.21 without trial chambers
-> Enables the Update 1.21 experimental features, but disables the trial chambers and breeze.
+Enables the Update 1.21 experimental features, but disables the trial chambers and breeze.
 
-<img alt="modrinth" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg">
+[![modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg)](https://modrinth.com/datapack/no-trial-chambers)
 
-Made for Minecraft: Java Edition 1.20.4
-
-|Enabled              |Disabled      |
-|---------------------|--------------|
-|Crafter              |Trial chambers|
-|Copper block variants|Breeze        |
-|Tuff block variants  |              |
+|Enabled|Disabled|
+|---|---|
+|Crafter<br>Copper block variants<br>Tuff block variants|Trial chambers<br>Breeze|
 
 ## Data pack instructions
 
-> **After installation, don't enable the separate `update_1_21 (feature)` data pack!**
+**After installation, don't enable the separate `update_1_21 (feature)` data pack!**
 
 <details><summary>Adding to a new singleplayer world</summary>
 
