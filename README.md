@@ -9,7 +9,8 @@ Enables the Update 1.21 experimental features, but disables the trial chambers a
 
 ## Data pack instructions
 
-**After installation, don't enable the separate `update_1_21 (feature)` data pack!**
+> [!WARNING]
+> **After installation, don't enable the separate `update_1_21 (feature)` data pack!**
 
 <details><summary>Adding to a new singleplayer world</summary>
 
