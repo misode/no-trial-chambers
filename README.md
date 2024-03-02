@@ -5,7 +5,7 @@ Enables the Update 1.21 experimental features, but disables the trial chambers a
 
 |Enabled|Disabled|
 |---|---|
-|Crafter<br>Copper block variants<br>Tuff block variants|Trial chambers<br>Breeze|
+|<img src="https://minecraft.wiki/images/BlockSprite_crafter.png"> Crafter<br><img src="https://minecraft.wiki/images/BlockSprite_chiseled-copper.png"> <img src="https://minecraft.wiki/images/BlockSprite_copper-bulb.png"> <img src="https://minecraft.wiki/images/BlockSprite_copper-grate.png"> Copper blocks<br><img src="https://minecraft.wiki/images/BlockSprite_chiseled-tuff.png"> <img src="https://minecraft.wiki/images/BlockSprite_polished-tuff.png"> <img src="https://minecraft.wiki/images/BlockSprite_tuff-bricks.png"> Tuff blocks|<img src="https://minecraft.wiki/images/EnvSprite_trial-chambers.png"> Trial chambers<br><img src="https://minecraft.wiki/images/EntitySprite_breeze.png"> Breeze<br><img src="https://minecraft.wiki/images/ItemSprite_trial-key.png"> Trial key|
 
 ## Data pack instructions
 
