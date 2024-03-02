@@ -1,6 +1,8 @@
 # Update 1.21 without trial chambers
 > Enables the Update 1.21 experimental features, but disables the trial chambers and breeze.
 
+<img alt="modrinth" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg">
+
 Made for Minecraft: Java Edition 1.20.4
 
 |Enabled              |Disabled      |
@@ -16,33 +18,33 @@ Made for Minecraft: Java Edition 1.20.4
 <details><summary>Adding to a new singleplayer world</summary>
 
 1. Open the "Data Packs" selection screen when creating a new world
-![](./images/new_world_screen.png)
+![](https://raw.githubusercontent.com/misode/no-trial-chambers/main/images/new_world_screen.png)
 2. Drag the downloaded datapack zip file onto the game window
 3. Move data pack to the "Selected" column and click "Done"
-![](./images/select_data_packs.png)
+![](https://raw.githubusercontent.com/misode/no-trial-chambers/main/images/select_data_packs.png)
 4. Accept the "Experimental Features Warning"
-![](./images/experimental_features_warning.png)
+![](https://raw.githubusercontent.com/misode/no-trial-chambers/main/images/experimental_features_warning.png)
 5. Change any other world settings and click "Create New World"
-![](./images/create_new_world.png)
+![](https://raw.githubusercontent.com/misode/no-trial-chambers/main/images/create_new_world.png)
 
 </details>
 
 <details><summary>Adding to an existing singleplayer world</summary>
 
 1. Select your world and click "Edit"
-![](./images/edit_world.png)
+![](https://raw.githubusercontent.com/misode/no-trial-chambers/main/images/edit_world.png)
 2. Click "Open World Folder"
-![](./images/open_world_folder.png)
+![](https://raw.githubusercontent.com/misode/no-trial-chambers/main/images/open_world_folder.png)
 3. Enable the "Update 1.21" feature flag `level.dat`. A simple way to do this is by installing the [NBT Viewer](https://marketplace.visualstudio.com/items?itemName=Misodee.vscode-nbt) extension for [VSCode](https://code.visualstudio.com/)
-![](./images/nbt_viewer_install.png)
+![](https://raw.githubusercontent.com/misode/no-trial-chambers/main/images/nbt_viewer_install.png)
 4. Open the `level.dat` file in VSCode by dragging the file from the file explorer to the VSCode window
 5. Inside `Data`, add a new list tag called `enabled_features`
-![](./images/nbt_enabled_features.png)
+![](https://raw.githubusercontent.com/misode/no-trial-chambers/main/images/nbt_enabled_features.png)
 6. Inside this list, add two new string tags with `minecraft:vanilla` and `minecraft:update_1_21`. Select the yellow string icon when adding the first tag.
-![](./images/nbt_update_1_21.png)
+![](https://raw.githubusercontent.com/misode/no-trial-chambers/main/images/nbt_update_1_21.png)
 7. Press `Ctrl + S` to save the file, make sure the world is not open in-game when editing the file!
 8. In the world save folder, find the `datapacks` folder and put the downloaded zip file in there
-![](./images/existing_world_datapack.png)
+![](https://raw.githubusercontent.com/misode/no-trial-chambers/main/images/existing_world_datapack.png)
 9. You can now open the world!
 
 </details>
