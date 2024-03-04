@@ -1,7 +1,7 @@
 # Update 1.21 without trial chambers
 Enables the Update 1.21 experimental features, but disables the trial chambers and breeze.
 
-[![modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg)](https://modrinth.com/datapack/no-trial-chambers)
+[![modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg)](https://modrinth.com/datapack/no-trial-chambers) [![download](https://raw.githubusercontent.com/misode/no-trial-chambers/main/images/badges/download-the-data-pack.svg)](https://github.com/misode/no-trial-chambers/releases/latest/download/update_1_21_no_trial_chambers_1.20.4.zip)
 
 |Enabled|Disabled|
 |---|---|
@@ -9,8 +9,7 @@ Enables the Update 1.21 experimental features, but disables the trial chambers a
 
 ## Data pack instructions
 
-> [!WARNING]
-> **After installation, don't enable the separate `update_1_21 (feature)` data pack!**
+**After installation, DON'T enable the separate "update_1_21 (feature)" data pack!**
 
 <details><summary>Adding to a new singleplayer world</summary>
 
