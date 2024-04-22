@@ -3,9 +3,28 @@ Enables the Update 1.21 experimental features, but disables the trial chambers a
 
 [![modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg)](https://modrinth.com/datapack/no-trial-chambers) [![download](https://raw.githubusercontent.com/misode/no-trial-chambers/main/images/badges/download-the-data-pack.svg)](https://github.com/misode/no-trial-chambers/releases/latest/download/update_1_21_no_trial_chambers_1.20.4.zip)
 
-|Enabled|Disabled|
-|---|---|
-|<img src="https://raw.githubusercontent.com/misode/no-trial-chambers/main/images/sprites/BlockSprite_crafter.png"> Crafter<br><img src="https://raw.githubusercontent.com/misode/no-trial-chambers/main/images/sprites/BlockSprite_chiseled-copper.png"> <img src="https://raw.githubusercontent.com/misode/no-trial-chambers/main/images/sprites/BlockSprite_copper-bulb.png"> <img src="https://raw.githubusercontent.com/misode/no-trial-chambers/main/images/sprites/BlockSprite_copper-grate.png"> Copper blocks<br><img src="https://raw.githubusercontent.com/misode/no-trial-chambers/main/images/sprites/BlockSprite_chiseled-tuff.png"> <img src="https://raw.githubusercontent.com/misode/no-trial-chambers/main/images/sprites/BlockSprite_polished-tuff.png"> <img src="https://raw.githubusercontent.com/misode/no-trial-chambers/main/images/sprites/BlockSprite_tuff-bricks.png"> Tuff blocks|<img src="https://raw.githubusercontent.com/misode/no-trial-chambers/main/images/sprites/EnvSprite_trial-chambers.png"> Trial chambers<br><img src="https://raw.githubusercontent.com/misode/no-trial-chambers/main/images/sprites/EntitySprite_breeze.png"> Breeze<br><img src="https://raw.githubusercontent.com/misode/no-trial-chambers/main/images/sprites/ItemSprite_trial-key.png"> Trial key|
+<table>
+  <thead>
+    <th>Enabled</th>
+    <th>Disabled</th>
+  </thead>
+  <tbody>
+    <td>
+      <img src="https://raw.githubusercontent.com/misode/no-trial-chambers/main/images/sprites/BlockSprite_crafter.png"> Crafter
+      <br>
+      <img src="https://raw.githubusercontent.com/misode/no-trial-chambers/main/images/sprites/BlockSprite_chiseled-copper.png"> <img src="https://raw.githubusercontent.com/misode/no-trial-chambers/main/images/sprites/BlockSprite_copper-bulb.png"> <img src="https://raw.githubusercontent.com/misode/no-trial-chambers/main/images/sprites/BlockSprite_copper-grate.png"> Copper blocks
+      <br>
+      <img src="https://raw.githubusercontent.com/misode/no-trial-chambers/main/images/sprites/BlockSprite_chiseled-tuff.png"> <img src="https://raw.githubusercontent.com/misode/no-trial-chambers/main/images/sprites/BlockSprite_polished-tuff.png"> <img src="https://raw.githubusercontent.com/misode/no-trial-chambers/main/images/sprites/BlockSprite_tuff-bricks.png"> Tuff blocks
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/misode/no-trial-chambers/main/images/sprites/EnvSprite_trial-chambers.png"> Trial chambers
+      <br>
+      <img src="https://raw.githubusercontent.com/misode/no-trial-chambers/main/images/sprites/EntitySprite_breeze.png"> Breeze
+      <br>
+      <img src="https://raw.githubusercontent.com/misode/no-trial-chambers/main/images/sprites/ItemSprite_trial-key.png"> Trial key
+    </td>
+  </tbody>
+</table>
 
 ## Data pack instructions
 
