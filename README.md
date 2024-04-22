@@ -1,7 +1,7 @@
 # Update 1.21 without trial chambers
 Enables the Update 1.21 experimental features, but disables the trial chambers and breeze.
 
-[![modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg)](https://modrinth.com/datapack/no-trial-chambers) [![download](https://raw.githubusercontent.com/misode/no-trial-chambers/main/images/badges/download-the-data-pack.svg)](https://github.com/misode/no-trial-chambers/releases/latest/download/update_1_21_no_trial_chambers_1.20.4.zip)
+[![modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg)](https://modrinth.com/datapack/no-trial-chambers) [![download](https://raw.githubusercontent.com/misode/no-trial-chambers/main/images/badges/download-the-data-pack.svg)](https://github.com/misode/no-trial-chambers/releases)
 
 <table>
   <thead>
@@ -12,16 +12,28 @@ Enables the Update 1.21 experimental features, but disables the trial chambers a
     <td>
       <img src="https://raw.githubusercontent.com/misode/no-trial-chambers/main/images/sprites/BlockSprite_crafter.png"> Crafter
       <br>
-      <img src="https://raw.githubusercontent.com/misode/no-trial-chambers/main/images/sprites/BlockSprite_chiseled-copper.png"> <img src="https://raw.githubusercontent.com/misode/no-trial-chambers/main/images/sprites/BlockSprite_copper-bulb.png"> <img src="https://raw.githubusercontent.com/misode/no-trial-chambers/main/images/sprites/BlockSprite_copper-grate.png"> Copper blocks
+      <img src="https://raw.githubusercontent.com/misode/no-trial-chambers/main/images/sprites/BlockSprite_copper-bulb.png"> <img src="https://raw.githubusercontent.com/misode/no-trial-chambers/main/images/sprites/BlockSprite_lit-copper-bulb.png"> Copper bulb
+      <br>
+      <img src="https://raw.githubusercontent.com/misode/no-trial-chambers/main/images/sprites/BlockSprite_chiseled-copper.png"> <img src="https://raw.githubusercontent.com/misode/no-trial-chambers/main/images/sprites/BlockSprite_copper-grate.png"> Copper blocks
       <br>
       <img src="https://raw.githubusercontent.com/misode/no-trial-chambers/main/images/sprites/BlockSprite_chiseled-tuff.png"> <img src="https://raw.githubusercontent.com/misode/no-trial-chambers/main/images/sprites/BlockSprite_polished-tuff.png"> <img src="https://raw.githubusercontent.com/misode/no-trial-chambers/main/images/sprites/BlockSprite_tuff-bricks.png"> Tuff blocks
     </td>
     <td>
       <img src="https://raw.githubusercontent.com/misode/no-trial-chambers/main/images/sprites/EnvSprite_trial-chambers.png"> Trial chambers
       <br>
+      <img src="https://raw.githubusercontent.com/misode/no-trial-chambers/main/images/sprites/BlockSprite_trial-spawner.png"> <img src="https://raw.githubusercontent.com/misode/no-trial-chambers/main/images/sprites/BlockSprite_vault.png"> Trial spawner and vault
+      <br>
+      <img src="https://raw.githubusercontent.com/misode/no-trial-chambers/main/images/sprites/BlockSprite_heavy-core.png"> Heavy core
+      <br>
       <img src="https://raw.githubusercontent.com/misode/no-trial-chambers/main/images/sprites/EntitySprite_breeze.png"> Breeze
       <br>
+      <img src="https://raw.githubusercontent.com/misode/no-trial-chambers/main/images/sprites/EntitySprite_bogged.png"> Bogged
+      <br>
       <img src="https://raw.githubusercontent.com/misode/no-trial-chambers/main/images/sprites/ItemSprite_trial-key.png"> Trial key
+      <br>
+      <img src="https://raw.githubusercontent.com/misode/no-trial-chambers/main/images/sprites/ItemSprite_wind-charge.png"> Wind charge
+      <br>
+      <img src="https://raw.githubusercontent.com/misode/no-trial-chambers/main/images/sprites/ItemSprite_ominous-bottle.png"> Ominous bottle
     </td>
   </tbody>
 </table>
