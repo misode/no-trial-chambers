@@ -1,5 +1,5 @@
 # Update 1.21 without trial chambers
-Enables the Update 1.21 experimental features, but disables the trial chambers and breeze.
+Enables the Update 1.21 experimental features, but disables the trial chambers and breeze. Notably, in 1.20.5+ the new raid mechanics will also be enabled, with pillagers dropping ominous bottles instead of giving bad omen.
 
 [![modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg)](https://modrinth.com/datapack/no-trial-chambers) [![download](https://raw.githubusercontent.com/misode/no-trial-chambers/main/images/badges/download-the-data-pack.svg)](https://github.com/misode/no-trial-chambers/releases)
 
