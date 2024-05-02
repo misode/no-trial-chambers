@@ -17,6 +17,8 @@ Enables the Update 1.21 experimental features, but disables the trial chambers a
       <img src="https://raw.githubusercontent.com/misode/no-trial-chambers/main/images/sprites/BlockSprite_chiseled-copper.png"> <img src="https://raw.githubusercontent.com/misode/no-trial-chambers/main/images/sprites/BlockSprite_copper-grate.png"> Copper blocks
       <br>
       <img src="https://raw.githubusercontent.com/misode/no-trial-chambers/main/images/sprites/BlockSprite_chiseled-tuff.png"> <img src="https://raw.githubusercontent.com/misode/no-trial-chambers/main/images/sprites/BlockSprite_polished-tuff.png"> <img src="https://raw.githubusercontent.com/misode/no-trial-chambers/main/images/sprites/BlockSprite_tuff-bricks.png"> Tuff blocks
+      <br>
+      <img src="https://raw.githubusercontent.com/misode/no-trial-chambers/main/images/sprites/ItemSprite_ominous-bottle.png"> New raid mechanics
     </td>
     <td>
       <img src="https://raw.githubusercontent.com/misode/no-trial-chambers/main/images/sprites/EnvSprite_trial-chambers.png"> Trial chambers
@@ -32,8 +34,6 @@ Enables the Update 1.21 experimental features, but disables the trial chambers a
       <img src="https://raw.githubusercontent.com/misode/no-trial-chambers/main/images/sprites/ItemSprite_trial-key.png"> Trial key
       <br>
       <img src="https://raw.githubusercontent.com/misode/no-trial-chambers/main/images/sprites/ItemSprite_wind-charge.png"> Wind charge
-      <br>
-      <img src="https://raw.githubusercontent.com/misode/no-trial-chambers/main/images/sprites/ItemSprite_ominous-bottle.png"> Ominous bottle
     </td>
   </tbody>
 </table>
